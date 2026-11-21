@@ -32,7 +32,7 @@ y evitar entregas repetidas mientras el sensor siga activado.
 Las conexiones de alimentación y tierra se muestran
 en el siguiente diagrama de la simulación.
 
-![Diagrama de conexiones](docs/esquema.png)
+![Diagrama de conexiones](docs/Esquema.png)
 
 ## Simulación en Wokwi
 https://wokwi.com/projects/479811074346710017
@@ -54,7 +54,7 @@ Biblioteca utilizada: ESP32Servo.
 ## Evidencia
 [Enlace al video del funcionamiento](media/evidencia.md)
 
-![Comedero en funcionamiento](media/simulacion.png)
+![Comedero en funcionamiento](media/Simulacion.png)
 
 ## Mejoras futuras
 - Incorporar horarios de alimentación.
